@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @V-Yeshwanth A Enthusiastic and passionate learner. Having clear understanding and execution skills in the field of webdevelopment.
+- 👋 Hi, I’m @ V-Yeshwanth A Enthusiastic and passionate learner. Having clear understanding and execution skills in the field of webdevelopment.
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to collaborate on open source Projects 
