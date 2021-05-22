@@ -2,11 +2,7 @@
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to collaborate on open source Projects 
--     Proeficient Skills: 
--        Frontend: HTML,CSS,BootStrap & JavaScript
--        Backend: PHP
--        DataBase: MySQL
-- 
+- Proeficient Skills: Frontend: HTML,CSS,BootStrap & JavaScript || Backend: PHP || DataBase: MySQL.
 - 📫 How to reach me 
-
+- 
 LinkedIn: https://www.linkedin.com/in/v-yeshwanth-b872a31b7
